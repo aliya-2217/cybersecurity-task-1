@@ -31,15 +31,15 @@ IP Address	                                      Open Ports (State)	            
                                   49152/tcp (open)	                                              
 
 
-192.168.0.100                    	53/tcp (filtered), 80/tcp (filtered),                           domain, http, msrpc, http-proxy
+192.168.0.1xx                    	53/tcp (filtered), 80/tcp (filtered),                           domain, http, msrpc, http-proxy
                                   135/tcp (filtered), 8080/tcp (filtered)	                       
 
 
-192.168.0.104	                    8008/tcp (open), 8009/tcp (open), 8443/tcp (open),              http, ajp13, https-alt, cslistener
+192.168.0.1xx                    8008/tcp (open), 8009/tcp (open), 8443/tcp (open),              http, ajp13, https-alt, cslistener
                                   9000/tcp (open)	                                               
 
 
-192.168.0.101	                    135/tcp (open), 139/tcp (open), 445/tcp (open),                 msrpc, netbios-ssn, microsoft-ds, iss-realsecure,
+192.168.0.1xx                    135/tcp (open), 139/tcp (open), 445/tcp (open),                 msrpc, netbios-ssn, microsoft-ds, iss-realsecure,
                                   902/tcp (open), 912/tcp (open), 1521/tcp (open)	                apex-mesh, oracle 
                                                                                                   
 
